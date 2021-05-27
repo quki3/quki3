@@ -4,9 +4,9 @@
 
 este es el discord en el que estoy siempre y mis redes sociales 🌎 Discord 👺https://discord.gg/JHHvMBPt Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau
 
-este soy yo 
+ mi mama
 
-![d9210ca5-3121-47cc-9a32-e6598c5e8117](https://user-images.githubusercontent.com/70489784/119751069-dee38780-be70-11eb-80ca-3ce19a252939.PNG)
+![ea3cf50e-5e0a-4e69-b278-1bccf9081c3e](https://user-images.githubusercontent.com/70489784/119764695-43f6a780-be88-11eb-8902-a7bf9dc12ad1.png)
 
 este es mi papa
 
