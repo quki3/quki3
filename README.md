@@ -4,6 +4,15 @@
 
 este es el discord en el que estoy siempre y mis redes sociales 🌎 Discord 👺https://discord.gg/JHHvMBPt Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau
 
+este soy yo 
+
+![d9210ca5-3121-47cc-9a32-e6598c5e8117](https://user-images.githubusercontent.com/70489784/119751069-dee38780-be70-11eb-80ca-3ce19a252939.PNG)
+
+este es mi avatar
+
+![R54975823e099db9c469c22053bb3e376](https://user-images.githubusercontent.com/70489784/119751291-3d106a80-be71-11eb-8fc0-b32fb7587176.PNG)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,5 +21,5 @@ este es el discord en el que estoy siempre y mis redes sociales 🌎 Discord �
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![d9210ca5-3121-47cc-9a32-e6598c5e8117](https://user-images.githubusercontent.com/70489784/119751069-dee38780-be70-11eb-80ca-3ce19a252939.PNG)
+
 
