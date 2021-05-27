@@ -10,7 +10,8 @@ este soy yo
 
 este es mi avatar
 
-![R54975823e099db9c469c22053bb3e376](https://user-images.githubusercontent.com/70489784/119751291-3d106a80-be71-11eb-8fc0-b32fb7587176.PNG)
+![onepunshman](https://user-images.githubusercontent.com/70489784/119752209-f3288400-be72-11eb-8ac2-6a6cc84cdcd7.png)
+
 
 
 - 🔭 I’m currently working on ...
