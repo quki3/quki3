@@ -4,6 +4,11 @@
 
 este es el discord en el que estoy siempre y mis redes sociales 🌎 Discord 👺https://discord.gg/JHHvMBPt Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau
 
+Esta es mi nona!
+
+![n](https://user-images.githubusercontent.com/70489784/119837731-3b7a8d00-bed9-11eb-8323-2dbfcce34253.png)
+
+
  Esta es mi mi mama!
 
 ![mama](https://user-images.githubusercontent.com/70489784/119837068-a081b300-bed8-11eb-8dc4-b6cc3f4b0212.png)
@@ -15,10 +20,9 @@ este es mi papa!
 
 
 
-este es mi avatar!
+Este soy yo!
 
-![onepunshman](https://user-images.githubusercontent.com/70489784/119752209-f3288400-be72-11eb-8ac2-6a6cc84cdcd7.png)
-
+![g](https://user-images.githubusercontent.com/70489784/119837436-f6eef180-bed8-11eb-818e-c53eec638a08.png)
 
 
 - 🔭 I’m currently working on ...
