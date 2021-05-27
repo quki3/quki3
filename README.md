@@ -1,9 +1,8 @@
-### Hi there 👋
+### holaa
 
-<!--
-**GabrielBrufau/GabrielBrufau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚩hola mi nombre es gabriel vivo en Parana Entre Rios el carpincho es nuestro vecino🦦🌫 🌳el espinillo o churqui es nuestro arbol representativo me crie en villaguay tierra de gente con cuchillos y mate 🧉👺🔪 y hace muy poco que disfruto leer codigo y crear cosas con la maquina 👨‍💻
 
-Here are some ideas to get you started:
+este es el discord en el que estoy siempre y mis redes sociales 🌎 Discord 👺https://discord.gg/JHHvMBPt Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
