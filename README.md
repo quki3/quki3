@@ -8,6 +8,12 @@ este soy yo
 
 ![d9210ca5-3121-47cc-9a32-e6598c5e8117](https://user-images.githubusercontent.com/70489784/119751069-dee38780-be70-11eb-80ca-3ce19a252939.PNG)
 
+este es mi papa
+
+![papa](https://user-images.githubusercontent.com/70489784/119752483-7e097e80-be73-11eb-8900-0e1fefd6503d.png)
+
+
+
 este es mi avatar
 
 ![onepunshman](https://user-images.githubusercontent.com/70489784/119752209-f3288400-be72-11eb-8ac2-6a6cc84cdcd7.png)
