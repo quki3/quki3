@@ -33,6 +33,6 @@ Este soy yo!
 - 💬 Ask me about ...Javascript 
 - 📫 How to reach me: ...gabrielBrufau@gmail.com
 - 😄 Pronouns: ...QUKI
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: ..el 15 de marzo comence a hablar con la maquina gracias a mi primer lenguaje de programacion 'javascript'
 
 
