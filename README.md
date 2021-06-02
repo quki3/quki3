@@ -2,7 +2,7 @@
 
 🚩hola mi nombre es gabriel vivo en Parana Entre Rios el carpincho es nuestro vecino🦦🌫 🌳el espinillo o churqui es nuestro arbol representativo me crie en villaguay tierra de gente con cuchillos y mate 🧉👺🔪 y hace muy poco que disfruto leer codigo y crear cosas con la maquina 👨‍💻
 
-este es el discord en el que estoy siempre y mis redes sociales 🌎 Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau
+este es el discord en el que estoy siempre y mis redes sociales 🌎 Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau Facebook https://www.facebook.com/GabrielBrufauNestor
 Estas son mis tecnologías, html, css, javascrip, react, redux, 
 
 Esta es mi nona!
@@ -27,12 +27,12 @@ Este soy yo!
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning ...REDUX
+- 👯 I’m looking to collaborate on ...Proyectos
+- 🤔 I’m looking for help with ...GO
+- 💬 Ask me about ...Javascript 
+- 📫 How to reach me: ...gabrielBrufau@gmail.com
+- 😄 Pronouns: ...QUKI
 - ⚡ Fun fact: ..
 
 
