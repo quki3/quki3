@@ -10,7 +10,10 @@
   y hace muy poco que disfruto leer codigo y crear cosas con la maquina 👨‍💻 faa ta que por tonto me pasa
 ```
 
-mis redes sociales 🌎 Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau Facebook https://www.facebook.com/GabrielBrufauNestor
+mis redes sociales 🌎 
+Istagram https://www.instagram.com/gabrielbrufaunestor/ 
+twitter https://twitter.com/GabrielBrufau 
+Facebook https://www.facebook.com/GabrielBrufauNestor
 
 ## English please!
 
