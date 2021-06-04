@@ -35,4 +35,8 @@ Este soy yo!
 - 😄 Pronouns: ...QUKI
 - ⚡ Fun fact: ..el 15 de marzo comence a hablar con la maquina gracias a mi primer lenguaje de programacion 'javascript'
 
+## tecnologias que conosco
+
+[JS](https://th.bing.com/th/id/Rb72f1259bb4546102d524b4132cd4033?rik=9pXPHAWWAQPK1w&riu=http%3a%2f%2fwww.iconhot.com%2ficon%2fpng%2fcoded%2f512%2fpage-javascript.png&ehk=Y32AJm9QFK64Rnc6NhXqYvwFkAUsFnwv57SOeXzcSCI%3d&risl=&pid=ImgRaw)
+
 
