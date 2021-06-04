@@ -1,5 +1,5 @@
 
-# presentando a mi y mis conocimientos en programacion
+# presentando a mi y a mis conocimientos en programacion
 
 ```bash
   🚩Hola mi nombre es gabriel vivo en Parana Entre Rios, y asi me presento yo!!;
