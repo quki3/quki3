@@ -36,8 +36,11 @@ Este soy yo!
 - ⚡ Fun fact: ..el 15 de marzo comence a hablar con la maquina gracias a mi primer lenguaje de programacion 'javascript'
 
 ## tecnologias que conosco
+ - [HTML](https://html.com/)
+ - [CSS](https://html.com/)
+ - [javascript](https://www.javascript.com/try)
 
-![Rb72f1259bb4546102d524b4132cd4033](https://user-images.githubusercontent.com/70489784/120866921-3b2c6280-c567-11eb-97f2-74304f701402.png)
+
 
 
 
