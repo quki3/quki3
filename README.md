@@ -7,6 +7,7 @@
 
 mis redes sociales 🌎 Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau Facebook https://www.facebook.com/GabrielBrufauNestor
 
+## English please!
 
   - 🔭 I’m currently working on ...
  - 🌱 I’m currently learning ...REDUX
@@ -18,12 +19,18 @@ mis redes sociales 🌎 Istagram https://www.instagram.com/gabrielbrufaunestor/ 
  - ⚡ Fun fact: ..on March 15th I started talking to the machine thanks to my first programming language 'javascript'
 
 
+## spanish please!
+
  
 
 ## tecnologias que conosco
  - [HTML](https://html.com/)
  - [CSS](https://html.com/)
- - [javascript](https://www.javascript.com/try)
+ - [Javascript](https://www.javascript.com/try)
+ - [React](https://es.reactjs.org/)
+ - [Redux](https://redux.js.org/)
+ - [Git](https://git-scm.com/doc)
+ - [WordExpress](https://wordpress.com/)
 
 Esta es mi nona!
 
