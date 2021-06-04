@@ -37,6 +37,6 @@ Este soy yo!
 
 ## tecnologias que conosco
 
-[JS](https://th.bing.com/th/id/Rb72f1259bb4546102d524b4132cd4033?rik=9pXPHAWWAQPK1w&riu=http%3a%2f%2fwww.iconhot.com%2ficon%2fpng%2fcoded%2f512%2fpage-javascript.png&ehk=Y32AJm9QFK64Rnc6NhXqYvwFkAUsFnwv57SOeXzcSCI%3d&risl=&pid=ImgRaw)
+[JS](![Rb72f1259bb4546102d524b4132cd4033](https://user-images.githubusercontent.com/70489784/120866853-1b953a00-c567-11eb-8801-384779526988.png))
 
 
