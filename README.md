@@ -37,6 +37,7 @@ Este soy yo!
 
 ## tecnologias que conosco
 
-[JS](![Rb72f1259bb4546102d524b4132cd4033](https://user-images.githubusercontent.com/70489784/120866853-1b953a00-c567-11eb-8801-384779526988.png))
+![Rb72f1259bb4546102d524b4132cd4033](https://user-images.githubusercontent.com/70489784/120866921-3b2c6280-c567-11eb-97f2-74304f701402.png)
+
 
 
