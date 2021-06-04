@@ -1,9 +1,9 @@
 
 # presentando a mi y mis conocimientos en programacion
 
- holaa
-
-🚩hola mi nombre es gabriel vivo en Parana Entre Rios el carpincho es nuestro vecino🦦🌫 🌳el espinillo o churqui es nuestro arbol representativo me crie en villaguay tierra de gente con cuchillos y mate 🧉👺🔪 y hace muy poco que disfruto leer codigo y crear cosas con la maquina 👨‍💻
+```bash
+  🚩Hola mi nombre es gabriel vivo en Parana Entre Rios, y asi me presento yo!; me crie con mi vecino el carpincho recostado en mi gualeguay 🦦🌫 🌳me crie junto a el espinillo o churqui que es nuestro arbol representativo, me crie en villaguay tierra de gente con cuchillos y mate 🧉👺🔪 junto al asado en al arroyo o en la casa faa ta que soy de villaguay !!y hace muy poco que disfruto leer codigo y crear cosas con la maquina 👨‍💻 faa ta que por tonto me pasa
+```
 
 mis redes sociales 🌎 Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau Facebook https://www.facebook.com/GabrielBrufauNestor
 
