@@ -7,16 +7,16 @@
 
 mis redes sociales 🌎 Istagram https://www.instagram.com/gabrielbrufaunestor/ twitter https://twitter.com/GabrielBrufau Facebook https://www.facebook.com/GabrielBrufauNestor
 
-```http
+
   - 🔭 I’m currently working on ...
  - 🌱 I’m currently learning ...REDUX
  - 👯 I’m looking to collaborate on ...Projects
  - 🤔 I’m looking for help with ...GO
  - 💬 Ask me about ...Javascript 
- - 📫 How to reach me: ...- [@gabrielbrufau](https://www.linkedin.com/in/gabriel-brufau-a504871b9/)
+ - 📫 How to reach me: ... - [@gabrielbrufau](https://www.linkedin.com/in/gabriel-brufau-a504871b9/)
  - 😄 Pronouns: ...QUKI
  - ⚡ Fun fact: ..on March 15th I started talking to the machine thanks to my first programming language 'javascript'
-```
+
 
  
 
