@@ -2,15 +2,17 @@
 # ꉣꌅꑀꈜꑀꃔꋖꁲꃔꀷꊿ ꁲ ꂵ꒐ ꐔ ꁲ ꂵ꒐ꈜ ꏳꊿꃔꊿꏳ꒐ꂵ꒐ꑀꃔꋖꊿꈜ ꑀꃔ ꉣꌅꊿꁅꌅꁲꂵꁲꏳ꒐ꊿꃔ
 
 ```bash
-  🚩Hola mi nombre es gabriel vivo en Parana Entre Rios;
-  me crie con carpinchos recostado en mi gualeguay 🦦🌫
-  🌳me crie junto a el espinillo o churqui,
+  Hola mi nombre es gabriel vivo en Parana Entre Rios;
+  me crie con carpinchos recostado en mi gualeguay,
+  me crie junto a el espinillo o churqui,
   me crie en mi villaguay junto a gente de cuchillos y mate 🧉👺🔪 
   junto al asado en al arroyo o en la casa faa ta que soy de villaguay !!
   Hace muy poco que disfruto leer codigo y crear cosas con la maquina
   creo que es algo que nos puede ayudar a crecer como especie
   lamento no haber conocido antes este mundo pero no tenia a nadie en el,
-  si todo sale bien espero poder enseñiarselo a mis hijos el dia de mañana .
+  si todo sale bien espero poder enseñiarselo a mis hijos el dia de mañana;
+  actualmente estoy aprendiendo ingles mi nivel es A1, me encantaria aprender chino 
+  pero necesito del ingles primero.
 ```
 
 ### mis redes sociales 🌎 
