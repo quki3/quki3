@@ -2,12 +2,15 @@
 # ꉣꌅꑀꈜꑀꃔꋖꁲꃔꀷꊿ ꁲ ꂵ꒐ ꐔ ꁲ ꂵ꒐ꈜ ꏳꊿꃔꊿꏳ꒐ꂵ꒐ꑀꃔꋖꊿꈜ ꑀꃔ ꉣꌅꊿꁅꌅꁲꂵꁲꏳ꒐ꊿꃔ
 
 ```bash
-  🚩Hola mi nombre es gabriel vivo en Parana Entre Rios, y asi me presento yo!!;
-  me crie con mi vecino el carpincho recostado en mi gualeguay 🦦🌫
-  🌳me crie junto a el espinillo o churqui que es nuestro arbol representativo,
-  me crie en villaguay tierra de gente con cuchillos y mate 🧉👺🔪 
+  🚩Hola mi nombre es gabriel vivo en Parana Entre Rios;
+  me crie con carpinchos recostado en mi gualeguay 🦦🌫
+  🌳me crie junto a el espinillo o churqui,
+  me crie en mi villaguay junto a gente de cuchillos y mate 🧉👺🔪 
   junto al asado en al arroyo o en la casa faa ta que soy de villaguay !!
-  y hace muy poco que disfruto leer codigo y crear cosas con la maquina 👨‍💻 faa ta que por tonto me pasa
+  Hace muy poco que disfruto leer codigo y crear cosas con la maquina
+  creo que es algo que nos puede ayudar a crecer como especie
+  lamento no haber conocido antes este mundo pero no tenia a nadie en el,
+  si todo sale bien espero poder enseñiarselo a mis hijos el dia de mañana .
 ```
 
 ### mis redes sociales 🌎 
