@@ -21,7 +21,7 @@
 - Facebook https://www.facebook.com/GabrielBrufauNestor
 
 ## English please!
-
+```bash
   - 🔭 I’m currently working on ...
  - 🌱 I’m currently learning ...REDUX
  - 👯 I’m looking to collaborate on ...Projects
@@ -30,7 +30,7 @@
  - 📫 How to reach me: ... - [@gabrielbrufau](https://www.linkedin.com/in/gabriel-brufau-a504871b9/)
  - 😄 Pronouns: ...QUKI
  - ⚡ Fun fact: ..on March 15th I started talking to the machine thanks to my first programming language 'javascript'
-
+```
 
 ## Spanish please!
 
