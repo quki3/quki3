@@ -15,7 +15,7 @@
   pero necesito del ingles primero.
 ```
 
-### mis redes sociales 🌎 
+### Mis redes sociales 🌎 
 - Istagram https://www.instagram.com/gabrielbrufaunestor/ 
 - twitter https://twitter.com/GabrielBrufau 
 - Facebook https://www.facebook.com/GabrielBrufauNestor
@@ -32,11 +32,11 @@
  - ⚡ Fun fact: ..on March 15th I started talking to the machine thanks to my first programming language 'javascript'
 
 
-## spanish please!
+## Spanish please!
 
  
 
-## tecnologias que conosco
+## Tecnologias que conosco
  - FrontEnd
  - [HTML](https://html.com/)
  - [CSS](https://html.com/)
@@ -54,7 +54,7 @@
  Trabajo en equipo
  creatividad
  
- ## lenguajes
+ ## Lenguajes
  Enghish Level A1
  Chino Level 0
  
@@ -76,7 +76,7 @@ Esta es mi nona!
 ![mama](https://user-images.githubusercontent.com/70489784/119837068-a081b300-bed8-11eb-8dc4-b6cc3f4b0212.png)
 
 
-este es mi papa!
+Este es mi papa!
 
 ![papa](https://user-images.githubusercontent.com/70489784/119752483-7e097e80-be73-11eb-8900-0e1fefd6503d.png)
 
