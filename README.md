@@ -43,9 +43,9 @@
  - [Javascript](https://www.javascript.com/try)
  - [React](https://es.reactjs.org/)
  - [Redux](https://redux.js.org/)
- - [Git](https://git-scm.com/doc)
  - [WordExpress](https://wordpress.com/)
  - Version Control System tools: 
+ - [Git](https://git-scm.com/doc)
  - [Github](https://github.com/)
  - BackEnd
 
