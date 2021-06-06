@@ -37,6 +37,14 @@
  
 
 ## Tecnologias que conosco
+| FrontEnd                                   | BackEnd            | Vesion Control System tools       |
+| :--------                                  | :-------           | :-------------------------        |
+| [HTML](https://html.com/)                  |                    | [Git](https://git-scm.com/doc)    |
+| [CSS](https://html.com/)                   |                    | [Github](https://github.com/)     |
+|[Javascript](https://www.javascript.com/try)|                    |
+|[React](https://es.reactjs.org/)            |                    |
+|[Redux](https://redux.js.org/)              |                    |
+|[WordExpress](https://wordpress.com/)       |                    |
  - FrontEnd
  - [HTML](https://html.com/)
  - [CSS](https://html.com/)
