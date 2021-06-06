@@ -51,12 +51,12 @@
 
 
  ## Skills
- Trabajo en equipo
- creatividad
+ - Trabajo en equipo
+ - creatividad
  
  ## Lenguajes
- Enghish Level A1
- Chino Level 0
+ - Enghish Level A1
+ - Chino Level 0
  
  
  
