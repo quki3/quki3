@@ -45,17 +45,7 @@
 |[React](https://es.reactjs.org/)            |                    |
 |[Redux](https://redux.js.org/)              |                    |
 |[WordExpress](https://wordpress.com/)       |                    |
- - FrontEnd
- - [HTML](https://html.com/)
- - [CSS](https://html.com/)
- - [Javascript](https://www.javascript.com/try)
- - [React](https://es.reactjs.org/)
- - [Redux](https://redux.js.org/)
- - [WordExpress](https://wordpress.com/)
- - Version Control System tools: 
- - [Git](https://git-scm.com/doc)
- - [Github](https://github.com/)
- - BackEnd
+
 
 
  ## Skills
