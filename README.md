@@ -37,6 +37,7 @@
  
 
 ## tecnologias que conosco
+ - FrontEnd
  - [HTML](https://html.com/)
  - [CSS](https://html.com/)
  - [Javascript](https://www.javascript.com/try)
@@ -44,10 +45,23 @@
  - [Redux](https://redux.js.org/)
  - [Git](https://git-scm.com/doc)
  - [WordExpress](https://wordpress.com/)
- - [Version Control System tools: Github](https://github.com/)
- - 
+ - Version Control System tools: 
+ - [Github](https://github.com/)
+ - BackEnd
+
+
+ ## Skills
+ Trabajo en equipo
+ creatividad
  
-#music
+ ## lenguajes
+ Enghish Level A1
+ Chino Level 0
+ 
+ 
+ 
+ 
+# Music
  - [ta que soy de villaguay](https://www.youtube.com/watch?v=M6c5ydQp278)
 
 
