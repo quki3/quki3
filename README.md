@@ -18,10 +18,10 @@
 
 
 ## Tecnologias que conosco
-| FrontEnd                                   | BackEnd            | Vesion Control System tools       |
-| :--------                                  | :-------           | :-------------------------        |
-| [HTML](https://html.com/)                  |                    | [Git](https://git-scm.com/doc)    |
-| [CSS](https://html.com/)                   |                    | [Github](https://github.com/)     |
+| FrontEnd                                   | BackEnd            | Vesion Control System tools       | Sistemas Operativos                               |
+| :--------                                  | :-------           | :-------------------------        | :-------------------                              |
+| [HTML](https://html.com/)                  |                    | [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|
+| [CSS](https://html.com/)                   |                    | [Github](https://github.com/)     | [Linux](https://www.linux.org/)                   |
 |[Javascript](https://www.javascript.com/try)|                    |
 |[React](https://es.reactjs.org/)            |                    |
 |[Redux](https://redux.js.org/)              |                    |
