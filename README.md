@@ -1,7 +1,7 @@
 
 # ꉣꌅꑀꈜꑀꃔꋖꁲꃔꀷꊿ ꁲ ꂵ꒐ ꐔ ꁲ ꂵ꒐ꈜ ꏳꊿꃔꊿꏳ꒐ꂵ꒐ꑀꃔꋖꊿꈜ ꑀꃔ ꉣꌅꊿꁅꌅꁲꂵꁲꏳ꒐ꊿꃔ
 
-# pride month
+# Pride month
 
 
 ![pride-1024x683](https://user-images.githubusercontent.com/70489784/121041580-42cb5180-c789-11eb-9df1-5a3b0acb20e8.jpg)
