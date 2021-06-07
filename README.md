@@ -1,6 +1,12 @@
 
 # ꉣꌅꑀꈜꑀꃔꋖꁲꃔꀷꊿ ꁲ ꂵ꒐ ꐔ ꁲ ꂵ꒐ꈜ ꏳꊿꃔꊿꏳ꒐ꂵ꒐ꑀꃔꋖꊿꈜ ꑀꃔ ꉣꌅꊿꁅꌅꁲꂵꁲꏳ꒐ꊿꃔ
 
+# pride month
+
+
+![pride-1024x683](https://user-images.githubusercontent.com/70489784/121041580-42cb5180-c789-11eb-9df1-5a3b0acb20e8.jpg)
+
+
 ```bash
   Hola mi nombre es gabriel vivo en Parana Entre Rios;me crie con carpinchos recostado en mi gualeguay,
   me crie junto a el espinillo o churqui,me crie en mi villaguay junto a gente de cuchillos y mate 🧉👺🔪 
@@ -8,7 +14,7 @@
   codigo y crear cosas con la maquina creo que es algo que nos puede ayudar a crecer como especie
   lamento no haber conocido antes este mundo pero no tenia a nadie en el,si todo sale bien espero poder
   enseñiarselo a mis hijos el dia de mañana;actualmente estoy aprendiendo ingles mi nivel es A1, 
-   me encantaria aprender chinopero necesito del ingles primero.
+  me encantaria aprender chino pero necesito del ingles primero.
 ```
 
 ### Mis redes sociales 🌎 
