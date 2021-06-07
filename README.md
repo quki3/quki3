@@ -51,27 +51,6 @@
 
 
 
-Esta es mi nona!
-
-![n](https://user-images.githubusercontent.com/70489784/119837731-3b7a8d00-bed9-11eb-8323-2dbfcce34253.png)
-
-
- Esta es mi mi mama!
-
-![mama](https://user-images.githubusercontent.com/70489784/119837068-a081b300-bed8-11eb-8dc4-b6cc3f4b0212.png)
-
-
-Este es mi papa!
-
-![papa](https://user-images.githubusercontent.com/70489784/119752483-7e097e80-be73-11eb-8900-0e1fefd6503d.png)
-
-
-
-Este soy yo!
-
-![g](https://user-images.githubusercontent.com/70489784/119837436-f6eef180-bed8-11eb-818e-c53eec638a08.png)
-
-
 
 
 
