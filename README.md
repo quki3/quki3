@@ -19,6 +19,7 @@
 <h3>  Please give me your money: </h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
+   
 ### Mis redes sociales 🌎 
 - Istagram https://www.instagram.com/gabrielbrufaunestor/ 
 - twitter https://twitter.com/GabrielBrufau 
