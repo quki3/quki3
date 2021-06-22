@@ -16,7 +16,9 @@
   𝖾𝗇𝗌𝖾𝗇̃𝗂𝖺𝗋𝗌𝖾𝗅𝗈 𝖺 𝗆𝗂𝗌 𝗁𝗂𝗃𝗈𝗌 𝖾𝗅 𝖽𝗂𝖺 𝖽𝖾 𝗆𝖺𝗇̃𝖺𝗇𝖺;𝖺𝖼𝗍𝗎𝖺𝗅𝗆𝖾𝗇𝗍𝖾 𝖾𝗌𝗍𝗈𝗒 𝖺𝗉𝗋𝖾𝗇𝖽𝗂𝖾𝗇𝖽𝗈 𝗂𝗇𝗀𝗅𝖾𝗌 𝗆𝗂 𝗇𝗂𝗏𝖾𝗅 𝖾𝗌 𝖠𝟣, 
   𝗆𝖾 𝖾𝗇𝖼𝖺𝗇𝗍𝖺𝗋𝗂𝖺 𝖺𝗉𝗋𝖾𝗇𝖽𝖾𝗋 𝖼𝗁𝗂𝗇𝗈 𝗉𝖾𝗋𝗈 𝗇𝖾𝖼𝖾𝗌𝗂𝗍𝗈 𝖽𝖾𝗅 𝗂𝗇𝗀𝗅𝖾𝗌 𝗉𝗋𝗂𝗆𝖾𝗋𝗈.
 ```
-
+<h3>  Please give me your money: </h3>
+<p align="left">
+  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
 ### Mis redes sociales 🌎 
 - Istagram https://www.instagram.com/gabrielbrufaunestor/ 
 - twitter https://twitter.com/GabrielBrufau 
