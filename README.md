@@ -34,9 +34,9 @@
 |[Javascript](https://www.javascript.com/try)|                                   |
 |[WordExpress](https://wordpress.com/)       |                                   |
 
-| BackEnd                                    | librerias          | framework                        | base de datos       |
-| :--------                                  |:-------            | :-------------                   | :-------------------                        
-| [Node](https://nodejs.org/en/)             |                    | [Express](http://expressjs.com/) |                     |
+| BackEnd                                    | librerias          | framework                        | base de datos       |Sistema de gestion de |
+| :--------                                  |:-------            | :-------------                   | :-------------------| :-------------------     |                     
+| [Node](https://nodejs.org/en/)             |                    | [Express](http://expressjs.com/) |                     |[Express](paquetes|https://www.npmjs.com/)|
 
 | Vesion Control System tools       | Sistemas Operativos                               |
 | :-------------------------        | :-------------------                        
