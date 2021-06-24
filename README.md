@@ -27,14 +27,17 @@
 
 
 ## Tecnologias que conosco
-| FrontEnd                                   | BackEnd            | Vesion Control System tools       | Sistemas Operativos                               |
-| :--------                                  |:-------           | :-------------------------        | :-------------------                        
-| [HTML](https://html.com/)                  |                  | [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|
-| [CSS](https://html.com/)                   |                    | [Github](https://github.com/)     | [Linux](https://www.linux.org/)                   |
-|[Javascript](https://www.javascript.com/try)|                    |
-|[React](https://es.reactjs.org/)            |                    |
-|[Redux](https://redux.js.org/)              |                    |
-|[WordExpress](https://wordpress.com/)       |                    |
+| FrontEnd                                    | Librerias                        | Vesion Control System tools       | Sistemas Operativos                               |
+| :--------                                  |:-------                           | :-------------------------        | :-------------------                        
+| [HTML](https://html.com/)                  | [React](https://es.reactjs.org/)  | [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|
+| [CSS](https://html.com/)                   |                                   | [Github](https://github.com/)     | [Linux](https://www.linux.org/)                   |
+|[Javascript](https://www.javascript.com/try)|                                   |
+|[Redux](https://redux.js.org/)              |                                   |
+|[WordExpress](https://wordpress.com/)       |                                   |
+
+| BackEnd                                    | base de tatos      |                      |                       |
+| :--------                                  |:-------            | :-------------       | :-------------------                        
+| [Node](https://nodejs.org/en/)             |                    |                      |                        |
 
 
 
