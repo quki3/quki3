@@ -27,20 +27,22 @@
 
 
 ## Tecnologias que conosco
-| FrontEnd                                    | Librerias                        | Vesion Control System tools       | Sistemas Operativos                               |
-| :--------                                  |:-------                           | :-------------------------        | :-------------------                        
-| [HTML](https://html.com/)                  | [React](https://es.reactjs.org/)  | [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|
-| [CSS](https://html.com/)                   |                                   | [Github](https://github.com/)     | [Linux](https://www.linux.org/)                   |
+| FrontEnd                                   | Librerias                         | Framework                    |                      |
+| :--------                                  |:-------                           | :------------------------    | :-------------------                       
+| [HTML](https://html.com/)                  | [React](https://es.reactjs.org/)  |                              |                      |
+| [CSS](https://html.com/)                   | [Redux](https://redux.js.org/)    |                              |                      |
 |[Javascript](https://www.javascript.com/try)|                                   |
-|[Redux](https://redux.js.org/)              |                                   |
 |[WordExpress](https://wordpress.com/)       |                                   |
 
-| BackEnd                                    | base de tatos      |                      |                       |
+| BackEnd                                    | librerias          | framework            | base de datos       |
 | :--------                                  |:-------            | :-------------       | :-------------------                        
-| [Node](https://nodejs.org/en/)             |                    |                      |                        |
+| [Node](https://nodejs.org/en/)             |                    |                      |                     |
 
-
-
+| Vesion Control System tools       | Sistemas Operativos                               |
+| :-------------------------        | :-------------------                        
+| [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|  
+| [Github](https://github.com/)     | [Linux](https://www.linux.org/)                   |   
+   
  ## Skills
  - Trabajo en equipo
  - creatividad
