@@ -34,7 +34,7 @@
 |[Javascript](https://www.javascript.com/try)|                                   |
 |[WordExpress](https://wordpress.com/)       |                                   |
 
-| BackEnd                                    | librerias          | framework                        | base de datos       |Sistema de gestion de paquetes|
+| BackEnd                                    | librerias          | framework                        | base de datos       |Sistema de gestión de paquetes|
 | :--------                                  |:-------            | :-------------                   | :-------------------| :-------------------     |                     
 | [Node](https://nodejs.org/en/)             |                    | [Express](http://expressjs.com/) |                     |[npm](https://www.npmjs.com/)|
 
