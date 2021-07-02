@@ -1,10 +1,7 @@
 
 # 介绍我自己和我在编程方面的知识
 
-# Pride month
 
-
-![pride-1024x683](https://user-images.githubusercontent.com/70489784/121041580-42cb5180-c789-11eb-9df1-5a3b0acb20e8.jpg)
 
 
 ```bash
