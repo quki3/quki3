@@ -23,17 +23,17 @@
 
 
 ## Tecnologias que conosco
-| FrontEnd                                   | Librerias                         | Framework                    |                      |
-| :--------                                  |:-------                           | :------------------------    | :-------------------                       
-| [HTML](https://html.com/)                  | [React](https://es.reactjs.org/)  |                              |                      |
-| [CSS](https://html.com/)                   | [Redux](https://redux.js.org/)    |                              |                      |
-|[Javascript](https://www.javascript.com/try)|                                   |
-|[WordExpress](https://wordpress.com/)       |                                   |
+| FrontEnd        | Librerias | Framework                    |                      |
+| :--------       |:-------   | :------------------------    | :-------------------                       
+| `HTML`          |   ``      |           `React`            |                      |
+| `CSS`           |``         |           `Redux`            |                      |
+|`Javascript`     |           |
+|`WordExpress`    |           |
 
-| BackEnd                                    | librerias          | framework                        | base de datos       |Herramientas|
-| :--------                                  |:-------            | :-------------                   | :-------------------| :-------------------     |                     
-| [Node](https://nodejs.org/en/)             |                    | [Express](http://expressjs.com/) |                     |[npm](https://www.npmjs.com/)|
-
+| BackEnd            | librerias          | framework                        | base de datos       |Gestor de paquetes|
+| :--------          |:-------            | :-------------                   | :-------------------| :-------------------        |                     
+| `Node`             | `babel`            | [Express](http://expressjs.com/) |                     |[npm](https://www.npmjs.com/)|
+|                    |                    |                                  |                     |                             |
 | Vesion Control System tools       | Sistemas Operativos                               |
 | :-------------------------        | :-------------------                        
 | [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|  
