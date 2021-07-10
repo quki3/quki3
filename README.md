@@ -34,8 +34,9 @@
 | :--------          |:-------            | :-------------                   | :-------------------| :-------------------        |                     
 | `Node`             | `babel`            | [Express](http://expressjs.com/) |                     |[npm](https://www.npmjs.com/)|
 |                    |                    |                                  |                     |                             |
+   
 | Vesion Control System tools       | Sistemas Operativos                               |
-| :-------------------------        | :-------------------                              |
+|        |                              |
 | [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|  
 | [Github](https://github.com/)     | [Linux](https://www.linux.org/)                   |   
    
