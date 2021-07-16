@@ -30,9 +30,9 @@
 |`Javascript`     |           |
 |`WordExpress`    |           |
 
-| BackEnd            | librerias          |                        | base de datos       |Gestor de paquetes|
-| :--------          |:-------            | :-------------                   | :-------------------| :-------------------        |                     
-| `Node`             | `babel`            | |                     |[npm](https://www.npmjs.com/)|
+| BackEnd            | librerias          |               | base de datos       |Gestor de paquetes|
+| :--------          |:-------            | :------------ | :-------------------| :-------------------        |                     
+| `Node`             | `babel`            |               |                     |`npm`|
 |                    | `express`          |                                  |                     |                             |
    
 | Vesion Control System tools       | Sistemas Operativos                               |
