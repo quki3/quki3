@@ -25,15 +25,17 @@
 ## Tecnologias que conosco
 | FrontEnd        | Librerias | Framework                    |                      |
 | :--------       |:-------   | :------------------------    | :-------------------                       
-| `HTML`          |       |           `React`            |                      |
-| `CSS`           |       |           `Redux`            |                      |
+| `HTML`          |           |           `React`            |                      |
+| `CSS`           |           |           `Redux`            |                      |
 |`Javascript`     |           |
 |`WordExpress`    |           |
 
-| BackEnd            | librerias          |               | base de datos       |Gestor de paquetes|
-| :--------          |:-------            | :------------ | :-------------------| :-------------------        |                     
-| `Node`             | `babel`            |               |                     |`npm`|
-|                    | `express`          |                                  |                     |                             |
+| BackEnd            | librerias          |               | base de datos       |Gestor de paquetes    |
+| :--------          |:-------            | :------------ | :-------------------| :------------------- |                     
+| `Node`             | `babel`            |               | `mongoDB`           |`npm`                 |
+|                    | `express`          |               |                     |                      |
+|                    | `mongoose`         |               |                     |                      |
+|                    | `cors`             |               |                     |                      |
    
 | Vesion Control System tools       | Sistemas Operativos                               |
 | :-----------------------       | :----------------------------     |
