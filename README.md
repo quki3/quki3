@@ -48,7 +48,7 @@
  
  ## Lenguajes
  - Enghish Level A1
- - Chino Level 0
+
  
  ## Educacion
  - tecnico electro mecanico
