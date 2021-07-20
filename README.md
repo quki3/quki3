@@ -43,13 +43,13 @@
 | [Github](https://github.com/)     |                  |   
    
  
-| Skills                   |    
+| `Skills`                   |    
 | :-----------------------  | 
-| Trabajo en equipo         |                                  
-| Creatividad               |  
-| Desarrollo Web            |
-| Enghish Level A1          |
-| designer                  | 
+| `Trabajo en equipo  `       |                                  
+| `Creatividad       `        |  
+| `Desarrollo Web   `         |
+| `Enghish Level A1`          |
+| `designer`                  | 
  
 
 
