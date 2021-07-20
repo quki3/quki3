@@ -42,12 +42,16 @@
 | [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|  
 | [Github](https://github.com/)     |                  |   
    
- ## Skills
- - Trabajo en equipo
- - creatividad
  
- ## Lenguajes
- - Enghish Level A1
+| Skills                   |    
+| :-----------------------  | 
+| Trabajo en equipo         |                                  
+| Creatividad               |  
+| Desarrollo Web            |
+| Enghish Level A1          |
+| designer                  | 
+ 
+
 
  
  ## Educacion
