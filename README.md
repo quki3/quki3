@@ -42,8 +42,8 @@
 | [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|  
 | [Github](https://github.com/)     |                  |   
    
- 
-| `Skills`                   |    
+
+| Skills                   |    
 | :-----------------------  | 
 | `Trabajo en equipo  `       |                                  
 | `Creatividad       `        |  
