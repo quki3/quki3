@@ -24,22 +24,22 @@
 ## Tecnologias que conosco
 | FrontEnd        | Librerias | Framework                    |                      |
 | :--------       |:-------   | :------------------------    | :-------------------                       
-| `HTML`          |           |           `React`            |                      |
-| `CSS`           |           |           `Redux`            |                      |
-|`Javascript`     |           |          `Boostrap`
+| `HTML` +          |           |           `React` +            |                      |
+| `CSS` +           |           |           `Redux`            |                      |
+|`Javascript` +     |           |          `Boostrap`
 |`WordExpress`    |           |
 
 | BackEnd            | librerias          |               | base de datos       |Gestor de paquetes    |
 | :--------          |:-------            | :------------ | :-------------------| :------------------- |                     
-| `Node`             | `babel`            |               | `mongoDB`           |`npm`                 |
+| `Node`             | `babel`            |               | `mongoDB` +           |`npm`                 |
 |                    | `express`          |               |                     |                      |
-|                    | `mongoose`         |               |                     |                      |
+|                    | `mongoose` +         |               |                     |                      |
 |                    | `cors`             |               |                     |                      |
    
 | Vesion Control System tools       | Sistemas Operativos                               |
 | :-----------------------       | :----------------------------     |
-| [Git](https://git-scm.com/doc)    | [Windows](https://www.microsoft.com/es-ar/windows)|  
-| [Github](https://github.com/)     |                  |   
+| `Git` +   | `Windows`|  
+| `Github`    |                  |   
    
 
 | Skills                   |    
@@ -54,7 +54,7 @@
 
  
  ## Educacion
- - tecnico electro mecanico
+ - `tecnico electro mecanico`+
  
  
  
