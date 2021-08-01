@@ -32,7 +32,7 @@
 | BackEnd            | librerias          |               | base de datos       |Gestor de paquetes    |
 | :--------          |:-------            | :------------ | :-------------------| :------------------- |                     
 | `Node`             | `babel`            |               | `mongoDB` +           |`npm`                 |
-|                    | `express`          |               |                     |                      |
+| `GO`               | `express`          |               |                     |                      |
 |                    | `mongoose` +         |               |                     |                      |
 |                    | `cors`             |               |                     |                      |
    
