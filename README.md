@@ -54,8 +54,12 @@
 
 
  
- ## Educacion
- - `tecnico electro mecanico`+
+ ## Logros
+ - `tecnico electro mecanico`
+   
+ ## Cursando 
+ - `Ingenieria en inf.`
+ - `Henry`
  
  
  
