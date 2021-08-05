@@ -21,7 +21,7 @@
 - Facebook https://www.facebook.com/GabrielBrufauNestor
 
 
-## Tecnologias que conosco
+## Tecnologias que he trabajado
 | FrontEnd        | Librerias | Framework                    |                      |
 | :--------       |:-------   | :------------------------    | :-------------------                       
 | `HTML` +          |           |           `React` +            |                      |
@@ -35,6 +35,7 @@
 | `GO`               | `express`          |               |                     |                      |
 |                    | `mongoose` +         |               |                     |                      |
 |                    | `cors`             |               |                     |                      |
+|                    |  `puppeteer`       |                 |                    |                       |
    
 | Vesion Control System tools       | Sistemas Operativos                               |
 | :-----------------------       | :----------------------------     |
