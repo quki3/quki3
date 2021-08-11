@@ -36,6 +36,7 @@
 |                    | `mongoose` +         |               |                     |                      |
 |                    | `cors`             |               |                     |                      |
 |                    |  `puppeteer`       |                 |                    |                       |
+   |                    |  `nodemailer`       |                 |                    |                       |
    
 | Vesion Control System tools       | Sistemas Operativos                               |
 | :-----------------------       | :----------------------------     |
