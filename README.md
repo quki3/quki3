@@ -33,7 +33,7 @@
 | :--------          |:-------            | :------------ | :-------------------| :------------------- |                     
 | `Node`             | `babel`            |               | `mongoDB` +           |`npm`                 |
 | `GO`               | `express`          |               |                     |                      |
-|                    | `mongoose` +         |               |                     |                      |
+| `Python`           | `mongoose` +         |               |                     |                      |
 |                    | `cors`             |               |                     |                      |
 |                    |  `puppeteer`       |                 |                    |                       |
    |                    |  `nodemailer`       |                 |                    |                       |
