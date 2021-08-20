@@ -33,7 +33,7 @@
 | :--------          |:-------            | :------------ | :-------------------| :------------------- |                     
 | `Node`             | `babel`            |               | `mongoDB` +           |`npm`                 |
 | `GO`               | `express`          |               |                     |                      |
-| `Python`           | `mongoose` +         |               |                     |                      |
+| `Python inicio 20 agosto`           | `mongoose` +         |               |                     |                      |
 |                    | `cors`             |               |                     |                      |
 |                    |  `puppeteer`       |                 |                    |                       |
    |                    |  `nodemailer`       |                 |                    |                       |
