@@ -22,21 +22,19 @@
 
 
 ## Tecnologias que he trabajado
-| FrontEnd        | Librerias | Framework                    |                      |
-| :--------       |:-------   | :------------------------    | :-------------------                       
-| `HTML` +          |           |           `React` +            |                      |
-| `CSS` +           |           |           `Redux`            |                      |
-|`Javascript` +     |           |          `Boostrap`
-|`WordExpress`    |           |
+| FROND END    | BACK END     | DATABASE | DEV OPS | MOBILE APP 
+| :--------    |:-------      | :------ | :--------|:----------|                    
+| `HTML`       |   `GO`       |  `MongoDB`|  `AWS` |   `Dart`  |
+| `CSS` +      | `Node.js`    |  `Redux`  |        | `Flutter` |
+|`Javascript`  |`Puppeteer`   |           |        |           |
+|`WordExpress` |`Express`     |           |        |           |
+|`Typescrip`   |`cors`        |           |        |           |
+|`React`       |`mongoose`    |           |        |
+|`Redux`       |`babel`       |
+|`Angular`     |`jsonwebtoken`|
+|`Bootstrap`   |`nodemailer`  |
 
-| BackEnd            | librerias          |               | base de datos       |Gestor de paquetes    |
-| :--------          |:-------            | :------------ | :-------------------| :------------------- |                     
-| `Node`             | `babel`            |               | `mongoDB` +           |`npm`                 |
-| `GO`               | `express`          |               |                     |                      |
-| `Python`           | `mongoose` +         |               |                     |                      |
-|                    | `cors`             |               |                     |                      |
-|                    |  `puppeteer`       |                 |                    |                       |
-   |                    |  `nodemailer`       |                 |                    |                       |
+
    
 | Vesion Control System tools       | Sistemas Operativos                               |
 | :-----------------------       | :----------------------------     |
