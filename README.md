@@ -58,7 +58,9 @@
 
  
  ## Logros
- - `tecnico electro mecanico`+
+  `tecnico electro mecanico`+
+  `Desarrollador Frond End`+
+ 
    
  ## Cursando 
  - `Ingenieria en inf.`
