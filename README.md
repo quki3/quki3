@@ -22,18 +22,18 @@
 
 
 # Tecnologias que he trabajado
-| FROND END       | BACK END        | DATABASE | DEV OPS | MOBILE APP| TOOLS 
-| :--------       |:-------         | :------ | :--------|:----------|:----------    |
-| `HTML` +        |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`  |`WINDOWS`      |
-| `CSS` +         | `NODE.js`       |  `Redux`  |        | `Flutter` |[chocolatey]() |
-|`Javascript` +   |[puppeteer]()    |           |        |           |`Andoid`       |
-|                 |[express]()      |           |        |           |`figma`        |
-|`Typescrip`      |[cors]()         |           |        |           |`npm`          |
-|`React` +        |[mongoose]()     |           |        |           |`WordExpress`
-|`Redux`          |[babel]()        |           |        |           |`Git`+
-|`Angular`        |[jsonwebtoken]() |           |        |           |`GibHub`+
-|`Bootstrap`      |[nodemailer]()   |
-|`react-bootstrap`|`PYTHON`
+| FROND END          | BACK END        | DATABASE | DEV OPS | MOBILE APP| TOOLS 
+| :--------          |:-------         | :------ | :--------|:----------|:----------    |
+| `HTML` +           |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`  |`WINDOWS`      |
+| `CSS` +            | `NODE.js`       |  `Redux`  |        | `Flutter` |[chocolatey]() |
+|`Javascript` +      |[puppeteer]()    |           |        |           |`Andoid`       |
+| [React]()          |[express]()      |           |        |           |`figma`        |
+| [React-bootstrap]()|[cors]()         |           |        |           |`npm`          |
+|[Redux]()           |[mongoose]()     |           |        |           |`WordExpress`
+|[Bootstrap]()       |[babel]()        |           |        |           |`Git`+
+|`Typescrip`         |[jsonwebtoken]() |           |        |           |`GibHub`+
+| [Angular]()        |[nodemailer]()   |
+|                    |`PYTHON`
 
 # Mis proyectos e Ideas
 |EASY                      |MID           |PRO   
