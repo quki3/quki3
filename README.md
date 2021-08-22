@@ -12,7 +12,7 @@
 ```
 
 <p align="left">
-  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
+  <code><a href="https://www.linkedin.com/in/gabriel-nestor-brufau-a504871b9/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
    
    
 ### Mis redes sociales 🌎 
