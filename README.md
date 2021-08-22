@@ -24,12 +24,12 @@
 # Tecnologias que he trabajado
 | FROND END       | BACK END        | DATABASE | DEV OPS | MOBILE APP| TOOLS 
 | :--------       |:-------         | :------ | :--------|:----------|:----------    |
-| `HTML`          |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`  |`WINDOWS`      |
+| `HTML` +        |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`  |`WINDOWS`      |
 | `CSS` +         | `NODE.js`       |  `Redux`  |        | `Flutter` |[chocolatey]() |
-|`Javascript`     |[puppeteer]()    |           |        |           |`Andoid`       |
+|`Javascript` +   |[puppeteer]()    |           |        |           |`Andoid`       |
 |                 |[express]()      |           |        |           |`figma`        |
 |`Typescrip`      |[cors]()         |           |        |           |`npm`          |
-|`React`          |[mongoose]()     |           |        |           |`WordExpress`
+|`React` +        |[mongoose]()     |           |        |           |`WordExpress`
 |`Redux`          |[babel]()        |           |        |           |`Git`
 |`Angular`        |[jsonwebtoken]() |           |        |           |`Gib`
 |`Bootstrap`      |[nodemailer]()   |
@@ -46,11 +46,11 @@
 
 | Skills                         |    
 | :-----------------------       | 
-| `Trabajo en equipo  `          |                                  
-| `Creatividad       `           |  
+| `Trabajo en equipo `+          |                                  
+| `Creatividad       `+          |  
 | `Desarrollo Web   `            |
 | `Enghish Level A1`             |
-| `Espan:ol nativo`              |
+| `Espan:ol nativo`+             |
 | `designer`                     |
 |`Googling`                      |
  
@@ -58,7 +58,7 @@
 
  
  ## Logros
- - `tecnico electro mecanico`
+ - `tecnico electro mecanico`+
    
  ## Cursando 
  - `Ingenieria en inf.`
