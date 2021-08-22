@@ -30,8 +30,8 @@
 |                 |[express]()      |           |        |           |`figma`        |
 |`Typescrip`      |[cors]()         |           |        |           |`npm`          |
 |`React` +        |[mongoose]()     |           |        |           |`WordExpress`
-|`Redux`          |[babel]()        |           |        |           |`Git`
-|`Angular`        |[jsonwebtoken]() |           |        |           |`Gib`
+|`Redux`          |[babel]()        |           |        |           |`Git`+
+|`Angular`        |[jsonwebtoken]() |           |        |           |`GibHub`+
 |`Bootstrap`      |[nodemailer]()   |
 |`react-bootstrap`|`PYTHON`
 
