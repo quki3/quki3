@@ -58,8 +58,8 @@
 
  
  ## Logros
-  -`tecnico electro mecanico`+
-  -`Desarrollador Frond End`+
+  - `tecnico electro mecanico`+
+  - `Desarrollador Frond End`+
  
    
  ## Cursando 
