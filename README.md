@@ -29,7 +29,7 @@
 |`Javascript` +      |[puppeteer]()    |           |        |           |`Andoid`       |
 | [React]()          |[express]()      |           |        |           |`figma`        |
 | [React-bootstrap]()|[cors]()         |           |        |           |`npm`          |
-|[Redux]()           |[mongoose]()     |           |        |           |`WordExpress`
+|[Redux]()           |[mongoose]()     |           |        |           |
 |[Bootstrap]()       |[babel]()        |           |        |           |`Git`+
 |`Typescrip`         |[jsonwebtoken]() |           |        |           |`GibHub`+
 | [Angular]()        |[nodemailer]()   |
