@@ -20,7 +20,7 @@
 - twitter https://twitter.com/GabrielBrufau 
 - Facebook https://www.facebook.com/GabrielBrufauNestor
 
-ghp_ifwo9QGIkwoX 1js7vQ9ddbEJ2sazO60xYXax
+
 # Tecnologias que he trabajado
 | FROND END          | BACK END        | DATABASE | DEV OPS | MOBILE APP| TOOLS 
 | :--------          |:-------         | :------ | :--------|:----------|:----------    |
