@@ -25,7 +25,7 @@
 | FROND END          | BACK END        | DATABASE | DEV OPS | MOBILE APP| TOOLS 
 | :--------          |:-------         | :------ | :--------|:----------|:----------    |
 | `HTML` +           |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`  |`WINDOWS`      |
-| `CSS` +            | `NODE.js`       |  `Redux`  |        | `Flutter` |[chocolatey]() |
+| `CSS` +            | `NODE.js`       |  `Redux`  |`Docker`| `Flutter` |[chocolatey]() |
 |`Javascript` +      |[puppeteer]()    |           |        |           |`Andoid`       |
 | [React]()          |[express]()      |           |        |           |`figma`        |
 | [React-bootstrap]()|[cors]()         |           |        |           |`npm`          |
