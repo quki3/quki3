@@ -26,10 +26,10 @@
 | :--------          |:-------         | :------ | :--------|:----------|:----------    |
 | `HTML` +           |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`  |`WINDOWS`      |
 | `CSS` +            | `NODE.js`       |  `Redux`  |`Docker`| `Flutter` |[chocolatey]() |
-|`Javascript` +      |[puppeteer]()    |           |        |           |`Andoid`       |
-| [React]()          |[express]()      |           |        |           |`figma`        |
+|`Javascript` +      |[puppeteer]()    |           |        |           | `LINUX`       |
+| [React]()          |[express]()      |           |        |           |[ubuntu]()     |
 | [React-bootstrap]()|[cors]()         |           |        |           |`npm`          |
-|[Redux]()           |[mongoose]()     |           |        |           |
+|[Redux]()           |[mongoose]()     |           |        |           |`Andoid`
 |[Bootstrap]()       |[babel]()        |           |        |           |`Git`+
 |`Typescrip`         |[jsonwebtoken]() |           |        |           |`GibHub`+
 | [Angular]()        |[nodemailer]()   |
