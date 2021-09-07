@@ -22,16 +22,16 @@
 
 
 # Tecnologias que he trabajado
-| FROND END          | BACK END        | DATABASE | DEV OPS | MOBILE APP| TOOLS 
-| :--------          |:-------         | :------ | :--------|:----------|:----------    |
-| `HTML` +           |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`  |`WINDOWS`      |
-| `CSS` +            | `NODE.js`       |  `Redux`  |`Docker`| `Flutter` |[chocolatey]() |
-|`Javascript` +      |[puppeteer]()    |           |        |           | `LINUX`       |
-| [React]()          |[express]()      |           |        |           |[ubuntu]()     |
-| [React-bootstrap]()|[cors]()         |           |        |           |`npm`          |
-|[Redux]()           |[mongoose]()     |           |        |           |`Andoid`
-|[Bootstrap]()       |[babel]()        |           |        |           |`Git`+
-|`Typescrip`         |[jsonwebtoken]() |           |        |           |`GibHub`+
+| FROND END          | BACK END        | DATABASE | DEV OPS | MOBILE APP   | TOOLS 
+| :--------          |:-------         | :------ | :--------|:----------   |:----------    |
+| `HTML` +           |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`     |`WINDOWS`      |
+| `CSS` +            | `NODE.js`       |  `Redux`  |`Docker`| `Flutter`    |[chocolatey]() |
+|`Javascript` +      |[puppeteer]()    |           |        |`kubernetes`  | `LINUX`       |
+| [React]()          |[express]()      |           |        |              |[ubuntu]()     |
+| [React-bootstrap]()|[cors]()         |           |        |              |`npm`          |
+|[Redux]()           |[mongoose]()     |           |        |              |`Andoid`
+|[Bootstrap]()       |[babel]()        |           |        |              |`Git`+
+|`Typescrip`         |[jsonwebtoken]() |           |        |              |`GibHub`+
 | [Angular]()        |[nodemailer]()   |
 |                    |[nodemon]()      |          
 |                    |`PYTHON`
