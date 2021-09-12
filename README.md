@@ -33,7 +33,8 @@
 |[Bootstrap]()       |[babel]()        |           |        |              |`Git`+
 |`Typescrip`         |[jsonwebtoken]() |           |        |              |`GibHub`+
 | [Angular]()        |[nodemailer]()   |
-|                    |[nodemon]()      |          
+|                    |[nodemon]()      |
+|                    |[chalk]()        |
 |                    |`PYTHON`
 
 # Mis proyectos e Ideas
