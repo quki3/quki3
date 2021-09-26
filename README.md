@@ -34,11 +34,11 @@
 
 
 # Tecnologias que he trabajado
-| FROND END          | BACK END        | DATABASE | DEV OPS | MOBILE APP   | TOOLS 
-| :--------          |:-------         | :------ | :--------|:----------   |:----------    |
-| `HTML` +           |   `GO`          |  `MongoDB`|  `AWS` |   `Dart`     |`WINDOWS`      |
+| FROND END          | BACK END        | DATABASE  | DEV OPS | MOBILE APP   | TOOLS 
+| :--------          |:-------         | :------   | :--------|:----------   |:----------    |
+| `HTML` +           |   `GO`          |  `SQL`    |  `AWS` |   `Dart`     |`WINDOWS`      |
 | `CSS` +            | `NODE.js`       |  `Redux`  |`Docker`| `Flutter`    |[chocolatey]() |
-|`Javascript` +      |[puppeteer]()    |           |        |`kubernetes`  | `LINUX`       |
+|`Javascript` +      |[puppeteer]()    | `MongoDB` |        |`kubernetes`  | `LINUX`       |
 | [React]()          |[express]()      |           |        |              |[ubuntu]()     |
 | [React-bootstrap]()|[cors]()         |           |        |              |`npm`          |
 |[Redux]()           |[mongoose]()     |           |        |              |`Andoid`
