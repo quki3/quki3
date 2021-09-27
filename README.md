@@ -47,6 +47,7 @@
 | [Angular]()        |[nodemailer]()   |
 |                    |[nodemon]()      |
 |                    |[chalk]()        |
+|                    |[secuelize]()    |
 |                    |`PYTHON`
 
 # Mis proyectos e Ideas
