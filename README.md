@@ -30,7 +30,6 @@
 ### Mis redes sociales 🌎 
 - Istagram https://www.instagram.com/quki_24h/ 
 - twitter https://twitter.com/GabrielBrufau 
-- Facebook https://www.facebook.com/GabrielBrufauNestor
 
 
 # Tecnologias que he trabajado
