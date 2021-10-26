@@ -15,9 +15,9 @@
 | FROND END          | BACK END        | DATABASE  | DEV OPS | MOBILE APP   | TOOLS 
 | :--------          |:-------         | :------   | :--------|:----------   |:----------    |
 | `HTML` +           |   `GO`          |  `SQL`    |  `AWS` |   `Dart`     |`WINDOWS`      |
-| `CSS` +            | `NODE.js`       |  `Redux`  |`Docker`| `Flutter`    |[chocolatey]() |
-|`Javascript` +      |[puppeteer]()    | `MongoDB` |        |`kubernetes`  | `LINUX`       |
-| [React]()          |[express]()      |           |        |              |[ubuntu]()     |
+| `CSS` +            | `NODE.js`       |[postgres]()|`Docker`| `Flutter`    |[chocolatey]() |
+|`Javascript` +      |[puppeteer]()    |[mongoDB]()|        |`kubernetes`  | `LINUX`       |
+| [React]()          |[express]()      |[Mysql]()|        |              |[ubuntu]()     |
 | [React-bootstrap]()|[cors]()         |           |        |              |`npm`          |
 |[Redux]()           |[mongoose]()     |           |        |              |`Andoid`
 |[Bootstrap]()       |[babel]()        |           |        |              |`Git`+
