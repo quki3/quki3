@@ -9,7 +9,7 @@
 ### Mis redes sociales 🌎 
 - Istagram https://www.instagram.com/quki_24h/ 
 - twitter https://twitter.com/GabrielBrufau 
-- portafolio https://api-2y3nuucj9-quki.vercel.app/api
+- portafolio https://api-k7d1p0qd1-quki.vercel.app/
 
 
 # Tecnologias que he trabajado
@@ -34,7 +34,7 @@
 | :--------                |:-------      | :------
 |`Aplicacion del clima`    |`Dashboard`   |`Youyiel`
 |`Aplicacion de peliculas` |`DocHTML`     |`Restaurante`
-|[portafolio](https://api-2y3nuucj9-quki.vercel.app/api)             |`DocCSS`      |`Comidas rapidas`
+|[portafolio](https://api-k7d1p0qd1-quki.vercel.app/)             |`DocCSS`      |`Comidas rapidas`
 
 
 
