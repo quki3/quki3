@@ -22,7 +22,7 @@
 | [React-bootstrap]()|[cors]()         |           |        |              |`npm`          |
 |[Redux]()           |[mongoose]()     |           |        |              |`Andoid`
 |[Bootstrap]()       |[babel]()        |           |        |              |`Git`+
-|`Typescrip`         |[jsonwebtoken]() |           |        |              |`GibHub`+
+|`Typescript`         |[jsonwebtoken]() |           |        |              |`GibHub`+
 | [Angular]()        |[nodemailer]()   |
 |                    |[nodemon]()      |
 |                    |[chalk]()        |
