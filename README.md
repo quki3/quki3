@@ -28,6 +28,7 @@
 |                    |[chalk]()        |
 |                    |[secuelize]()    |
 |                    |`PYTHON`
+|                    |`C++` |
 
 # Mis proyectos e Ideas
 |EASY                      |MID           |PRO   
