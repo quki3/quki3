@@ -55,6 +55,7 @@
  ## Logros
   - `tecnico electro mecanico`+
   - `Desarrollador Frond End`+
+  - `Desarrollador Back End`+
  
    
  ## Cursando 
@@ -68,7 +69,8 @@
 # Music
  - [kidd keo]()
  - [duki]()
-
+ - [Fe de Errata]()
+ - []
 
 
 
