@@ -10,6 +10,7 @@
 - Istagram https://www.instagram.com/quki_24h/ 
 - twitter https://twitter.com/GabrielBrufau 
 - Mi wep personal https://api-k7d1p0qd1-quki.vercel.app/
+- Discord https://discord.gg/PutgvhNShG
 
 
 # Tecnologias que he trabajado
