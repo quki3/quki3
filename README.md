@@ -16,18 +16,19 @@
 # Tecnologias que he trabajado
 | FROND END          | BACK END        | DATABASE  | DEV OPS | MOBILE APP   | TOOLS 
 | :--------          |:-------         | :------   | :--------|:----------   |:----------    |
-| `HTML` +           |   `GO`          |  `SQL`    |  `AWS` |   `Dart`     |`WINDOWS`      |
-| `CSS` +            | `NODE.js`       |[postgres]()|`Docker`| `Flutter`    |[chocolatey]() |
+| `HTML` +           |   `GO`          |  `SQL`    |  `AWS` |   `off`     |`WINDOWS`      |
+| `CSS` +            | `NODE.js`       |[postgres]()|`Docker`| `off`    |[chocolatey]() |
 |`Javascript` +      |[puppeteer]()    |[mongoDB]()|        |`kubernetes`  | `LINUX`       |
 | [React]()          |[express]()      |[Mysql]()|        |              |[ubuntu]()     |
 | [React-bootstrap]()|[cors]()         |           |        |              |`npm`          |
 |[Redux]()           |[mongoose]()     |           |        |              |`Andoid`
 |[Bootstrap]()       |[babel]()        |           |        |              |`Git`+
-|`Typescript`         |[jsonwebtoken]() |           |        |              |`GibHub`+
+|`Typescript`        |[jsonwebtoken]() |           |        |              |`GibHub`+
 | [Angular]()        |[nodemailer]()   |
 |                    |[nodemon]()      |
 |                    |[chalk]()        |
 |                    |[secuelize]()    |
+|                    |[nestjs]()       |
 |                    |`PYTHON`
 |                    |`C++` |
 
