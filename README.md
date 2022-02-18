@@ -18,7 +18,7 @@
 | :--------          |:-------         | :------   | :--------|:----------   |:----------    |
 | `HTML` +           |   `GO`          |  `SQL`    |  `AWS` |   `off`     |`WINDOWS`      |
 | `CSS` +            | `NODE.js`       |[postgres]()|`Docker`| `off`    |[chocolatey]() |
-|`Javascript` +      |[puppeteer]()    |[mongoDB]()|        |`kubernetes`  | `LINUX`       |
+|`Javascript` +      |[puppeteer]()    |[mongoDB]()|        |`off`  | `LINUX`       |
 | [React]()          |[express]()      |[Mysql]()|        |              |[ubuntu]()     |
 | [React-bootstrap]()|[cors]()         |           |        |              |`npm`          |
 |[Redux]()           |[mongoose]()     |           |        |              |`Andoid`
