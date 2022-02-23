@@ -18,13 +18,13 @@
 | FROND END          | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS         |
 | :--------          |:-------         | :------    | :-------|:---------- |:----------    |
 | `HTML` +           |   `GO`          |  `SQL`     |`Docker`+|   `off`    |`WINDOWS`      |
-| `CSS` +            | `NODE.js`       |[postgres]()|         | `off`      |[chocolatey]() |
-|`Javascript` +      |[puppeteer]()    |[mongoDB]() |         |`off`       | `LINUX`       |
+| `CSS` +            | `NODE.js`       |[postgres]()|`GibHub`+| `off`      |[chocolatey]() |
+|`Javascript` +      |[puppeteer]()    |[mongoDB]() |`Git`+   |`off`       | `LINUX`       |
 | [React]()          |[express]()      |[Mysql]()|  |         |            |[ubuntu]()     |
 | [React-bootstrap]()|[cors]()         |            |         |            |`npm`          |
 |[Redux]()           |[mongoose]()     |            |         |            |`Andoid`       |
-|[Bootstrap]()       |[babel]()        |            |         |            |`Git`+         |
-|`Typescript`        |[jsonwebtoken]() |            |         |            |`GibHub`+      |
+|[Bootstrap]()       |[babel]()        |            |         |            |         |
+|`Typescript`        |[jsonwebtoken]() |            |         |            |      |
 | [Angular]()        |[nodemailer]()   |            |         |            |               |
 |                    |[nodemon]()      |
 |                    |[chalk]()        |
