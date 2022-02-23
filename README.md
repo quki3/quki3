@@ -32,6 +32,7 @@
 |                    |[nestjs]()       |
 |                    |`PYTHON`
 |                    |`C++` |
+|                    |`Swift` |
 
 # Mis proyectos e Ideas
 |EASY                      |MID           |PRO   
