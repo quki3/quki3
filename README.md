@@ -15,17 +15,17 @@
 
 
 # Tecnologias que he trabajado
-| FROND END          | BACK END        | DATABASE  | DEV OPS | MOBILE APP   | TOOLS 
-| :--------          |:-------         | :------   | :--------|:----------   |:----------    |
-| `HTML` +           |   `GO`          |  `SQL`    |  `AWS` |   `off`     |`WINDOWS`      |
-| `CSS` +            | `NODE.js`       |[postgres]()|`Docker`| `off`    |[chocolatey]() |
-|`Javascript` +      |[puppeteer]()    |[mongoDB]()|        |`off`  | `LINUX`       |
-| [React]()          |[express]()      |[Mysql]()|        |              |[ubuntu]()     |
-| [React-bootstrap]()|[cors]()         |           |        |              |`npm`          |
-|[Redux]()           |[mongoose]()     |           |        |              |`Andoid`
-|[Bootstrap]()       |[babel]()        |           |        |              |`Git`+
-|`Typescript`        |[jsonwebtoken]() |           |        |              |`GibHub`+
-| [Angular]()        |[nodemailer]()   |
+| FROND END          | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS         |
+| :--------          |:-------         | :------    | :-------|:---------- |:----------    |
+| `HTML` +           |   `GO`          |  `SQL`     |`Docker`+|   `off`    |`WINDOWS`      |
+| `CSS` +            | `NODE.js`       |[postgres]()|         | `off`      |[chocolatey]() |
+|`Javascript` +      |[puppeteer]()    |[mongoDB]() |         |`off`       | `LINUX`       |
+| [React]()          |[express]()      |[Mysql]()|  |         |            |[ubuntu]()     |
+| [React-bootstrap]()|[cors]()         |            |         |            |`npm`          |
+|[Redux]()           |[mongoose]()     |            |         |            |`Andoid`       |
+|[Bootstrap]()       |[babel]()        |            |         |            |`Git`+         |
+|`Typescript`        |[jsonwebtoken]() |            |         |            |`GibHub`+      |
+| [Angular]()        |[nodemailer]()   |            |         |            |               |
 |                    |[nodemon]()      |
 |                    |[chalk]()        |
 |                    |[secuelize]()    |
