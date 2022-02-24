@@ -14,6 +14,7 @@
 - Discord https://discord.gg/PutgvhNShG
 
 | NIVELES DE PROGRAMACION | NIVEL   | codewars |
+|:------------------------|:--------|:---------|
 |`basico`                 |   *     | 8kyu-7kyu|
 |`medio`                  |   **    | 6kyu-5kyu|
 |`alto`                   |   ***   | 4kyu-3kyu|
