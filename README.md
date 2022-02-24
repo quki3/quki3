@@ -20,13 +20,13 @@
 |`alto`                   |   ***   | 4kyu-3kyu|
 |`expert`                 |   ****  | 2kyu     |
 |`challenger`             |   ***** | 1kyu     |
-<br/>
+  
 # Tecnologias que he trabajado
 | FROND END             | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS         |
 | :--------             |:-------         | :------    | :-------|:---------- |:----------    |
-| `HTML` *              |   `GO` *        |  `SQL`     |`Docker`+|   `off`    |`WINDOWS`      |
-| `CSS` *               | `NODE.js` **    |[postgres]()|`GibHub`+| `off`      |[chocolatey]() |
-|`Javascript` **        |[puppeteer]()    |[mongoDB]() |`Git`+   |`off`       | `LINUX`       |  
+| `HTML` *              |   `GO` *        |  `SQL`     |`Docker`* |   `off`    |`WINDOWS`      |
+| `CSS` *               | `NODE.js` **    |[postgres]()|`GibHub`* | `off`      |[chocolatey]() |
+|`Javascript` **        |[puppeteer]()    |[mongoDB]() |`Git`**   |`off`       | `LINUX`       |  
 | [React]()             |[express]()      |[Mysql]()|  |         |            |[ubuntu]()     |
 | [React-bootstrap]()   |[cors]()         |            |         |            |`npm`          |
 |[Redux]()              |[mongoose]()     |            |         |            |`Andoid`       |
