@@ -13,13 +13,19 @@
 - Mi wep personal https://api-k7d1p0qd1-quki.vercel.app/
 - Discord https://discord.gg/PutgvhNShG
 
-
+| NIVELES DE PROGRAMACION | NIVEL   | codewars |
+|`basico`                 |   *     | 8kyu-7kyu|
+|`medio`                  |   **    | 6kyu-5kyu|
+|`alto`                   |   ***   | 4kyu-3kyu|
+|`expert`                 |   ****  | 2kyu     |
+|`challenger`             |   ***** | 1kyu     |
+<br/>
 # Tecnologias que he trabajado
 | FROND END             | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS         |
 | :--------             |:-------         | :------    | :-------|:---------- |:----------    |
-| `HTML` +              |   `GO`          |  `SQL`     |`Docker`+|   `off`    |`WINDOWS`      |
-| `CSS` +               | `NODE.js`       |[postgres]()|`GibHub`+| `off`      |[chocolatey]() |
-|`Javascript` nivel medio|[puppeteer]()    |[mongoDB]() |`Git`+   |`off`       | `LINUX`       |  
+| `HTML` *              |   `GO` *        |  `SQL`     |`Docker`+|   `off`    |`WINDOWS`      |
+| `CSS` *               | `NODE.js` **    |[postgres]()|`GibHub`+| `off`      |[chocolatey]() |
+|`Javascript` **        |[puppeteer]()    |[mongoDB]() |`Git`+   |`off`       | `LINUX`       |  
 | [React]()             |[express]()      |[Mysql]()|  |         |            |[ubuntu]()     |
 | [React-bootstrap]()   |[cors]()         |            |         |            |`npm`          |
 |[Redux]()              |[mongoose]()     |            |         |            |`Andoid`       |
@@ -30,9 +36,9 @@
 |                       |[chalk]()        |
 |                       |[secuelize]()    |
 |                       |[nestjs]()       |
-|                       |`PYTHON`
-|                       |`C++` |
-|                       |`Swift` |
+|                       |`PYTHON` *       |
+|                       |`C++` *          |
+|                       |`Swift` *        |
 
 # Mis proyectos e Ideas
 |EASY                      |MID           |PRO   
