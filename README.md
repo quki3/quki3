@@ -19,7 +19,7 @@
 | :--------             |:-------         | :------    | :-------|:---------- |:----------    |
 | `HTML` +              |   `GO`          |  `SQL`     |`Docker`+|   `off`    |`WINDOWS`      |
 | `CSS` +               | `NODE.js`       |[postgres]()|`GibHub`+| `off`      |[chocolatey]() |
-|`Javascript`nivel medio|[puppeteer]()    |[mongoDB]() |`Git`+   |`off`       | `LINUX`       |  
+|`Javascript` nivel medio|[puppeteer]()    |[mongoDB]() |`Git`+   |`off`       | `LINUX`       |  
 | [React]()             |[express]()      |[Mysql]()|  |         |            |[ubuntu]()     |
 | [React-bootstrap]()   |[cors]()         |            |         |            |`npm`          |
 |[Redux]()              |[mongoose]()     |            |         |            |`Andoid`       |
