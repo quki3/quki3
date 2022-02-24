@@ -15,24 +15,24 @@
 
 
 # Tecnologias que he trabajado
-| FROND END          | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS         |
-| :--------          |:-------         | :------    | :-------|:---------- |:----------    |
-| `HTML` +           |   `GO`          |  `SQL`     |`Docker`+|   `off`    |`WINDOWS`      |
-| `CSS` +            | `NODE.js`       |[postgres]()|`GibHub`+| `off`      |[chocolatey]() |
-|`Javascript` +      |[puppeteer]()    |[mongoDB]() |`Git`+   |`off`       | `LINUX`       |
-| [React]()          |[express]()      |[Mysql]()|  |         |            |[ubuntu]()     |
-| [React-bootstrap]()|[cors]()         |            |         |            |`npm`          |
-|[Redux]()           |[mongoose]()     |            |         |            |`Andoid`       |
-|[Bootstrap]()       |[babel]()        |            |         |            |         |
-|`Typescript`        |[jsonwebtoken]() |            |         |            |      |
-| [Angular]()        |[nodemailer]()   |            |         |            |               |
-|                    |[nodemon]()      |
-|                    |[chalk]()        |
-|                    |[secuelize]()    |
-|                    |[nestjs]()       |
-|                    |`PYTHON`
-|                    |`C++` |
-|                    |`Swift` |
+| FROND END             | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS         |
+| :--------             |:-------         | :------    | :-------|:---------- |:----------    |
+| `HTML` +              |   `GO`          |  `SQL`     |`Docker`+|   `off`    |`WINDOWS`      |
+| `CSS` +               | `NODE.js`       |[postgres]()|`GibHub`+| `off`      |[chocolatey]() |
+|`Javascript`nivel medio|[puppeteer]()    |[mongoDB]() |`Git`+   |`off`       | `LINUX`       |  
+| [React]()             |[express]()      |[Mysql]()|  |         |            |[ubuntu]()     |
+| [React-bootstrap]()   |[cors]()         |            |         |            |`npm`          |
+|[Redux]()              |[mongoose]()     |            |         |            |`Andoid`       |
+|[Bootstrap]()          |[babel]()        |            |         |            |         |
+|`Typescript`           |[jsonwebtoken]() |            |         |            |      |
+| [Angular]()           |[nodemailer]()   |            |         |            |               |
+|                       |[nodemon]()      |
+|                       |[chalk]()        |
+|                       |[secuelize]()    |
+|                       |[nestjs]()       |
+|                       |`PYTHON`
+|                       |`C++` |
+|                       |`Swift` |
 
 # Mis proyectos e Ideas
 |EASY                      |MID           |PRO   
