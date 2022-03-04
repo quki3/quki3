@@ -9,6 +9,7 @@
 ### Mis redes sociales 🌎 
 - Istagram https://www.instagram.com/quki_24h/ 
 - twitter https://twitter.com/GabrielBrufau
+- GitLab https://gitlab.com/qki.foss/gabrielbrufau
 - Portfolio https://portfoliogabrielbrrufau.herokuapp.com/
 - Mi wep personal https://api-k7d1p0qd1-quki.vercel.app/
 - Discord https://discord.gg/PutgvhNShG
@@ -22,17 +23,17 @@
 |`challenger`             |   ***** | 1kyu     |
   
 # Tecnologias que he trabajado
-| FROND END             | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS         |
-| :--------             |:-------         | :------    | :-------|:---------- |:----------    |
+| FROND END             | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS          |
+| :--------             |:-------         | :------    | :-------|:---------- |:----------     |
 | `HTML` *              |   `GO` *        |  `SQL`     |`Docker`* |   `off`    |`WINDOWS`      |
 | `CSS` *               | `NODE.js` **    |[postgres]()|`GibHub`* | `off`      |[chocolatey]() |
 |`Javascript` **        |[puppeteer]()    |[mongoDB]() |`Git`**   |`off`       | `LINUX`       |  
-| [React]()             |[express]()      |[Mysql]()|  |         |            |[ubuntu]()     |
-| [React-bootstrap]()   |[cors]()         |            |         |            |`npm`          |
-|[Redux]()              |[mongoose]()     |            |         |            |`Andoid`       |
-|[Bootstrap]()          |[babel]()        |            |         |            |         |
-|`Typescript`           |[jsonwebtoken]() |            |         |            |      |
-| [Angular]()           |[nodemailer]()   |            |         |            |               |
+| [React]()             |[express]()      |[Mysql]()|  |`GitLab`*|             |[ubuntu]()      |
+| [React-bootstrap]()   |[cors]()         |            |         |             |`npm`           |
+|[Redux]()              |[mongoose]()     |            |         |             |`Andoid`        |
+|[Bootstrap]()          |[babel]()        |            |         |             | `Figma`*       |
+|`Typescript`           |[jsonwebtoken]() |            |         |             |                |
+| [Angular]()           |[nodemailer]()   |            |         |             |                |
 |                       |[nodemon]()      |
 |                       |[chalk]()        |
 |                       |[secuelize]()    |
