@@ -53,7 +53,7 @@
 |[Bootstrap]()          |[babel]()        |            |         |             | `Figma`*       |
 |`Typescript`           |[jsonwebtoken]() |            |         |             |                |
 | [Angular]()           |[nodemailer]()   |            |         |             |                |
-|                       |[nodemon]()      |
+| [Next.js]()           |[nodemon]()      |
 |                       |[chalk]()        |
 |                       |[secuelize]()    |
 |                       |[nestjs]()       |
