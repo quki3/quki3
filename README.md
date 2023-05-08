@@ -33,70 +33,17 @@
   </a> 
 </p>
 
-| PROGRAMMING LEVES       | LEVELS  | codewars |
-|:------------------------|:--------|:---------|
-|`esential`               |   *     | 8kyu-7kyu|
-|`medium`                 |   **    | 6kyu-5kyu|
-|`strong`                 |   ***   | 4kyu-3kyu|
-|`expert`                 |   ****  | 2kyu     |
-|`challenger`             |   ***** | 1kyu     |
-  
-# Teachnologies in whitch I have worked
-| FROND END             | BACK END        | DATABASE   | DEVOPS  | MOBILE APP | TOOLS          |
-| :--------             |:-------         | :------    | :-------|:---------- |:----------     |
-| `HTML` *              |   `GO` *        |  `SQL`     |`Docker`* |   `off`    |`WINDOWS`      |
-| `CSS` *               | `NODE.js` **    |[postgres]()|`GibHub`* | `off`      |[chocolatey]() |
-|`Javascript` **        |[puppeteer]()    |[mongoDB]() |`Git`**   |`off`       | `LINUX`       |  
-| [React]()             |[express]()      |[Mysql]()|  |`GitLab`*|             |[ubuntu]()      |
-| [React-bootstrap]()   |[cors]()         |            |         |             |`npm`           |
-|[Redux]()              |[mongoose]()     |            |         |             |`Andoid`        |
-|[Bootstrap]()          |[babel]()        |            |         |             | `Figma`*       |
-|`Typescript`           |[jsonwebtoken]() |            |         |             |                |
-| [Angular]()           |[nodemailer]()   |            |         |             |                |
-| [Next.js]()           |[nodemon]()      |
-|                       |[chalk]()        |
-|                       |[secuelize]()    |
-|                       |[nestjs]()       |
-|                       |`PYTHON` *       |
-|                       |`C++` *          |
-|                       |`Swift` *        |
-
-# My projects and ideas
-|EASY                      |MID           |PRO   
-| :--------                |:-------      | :------
-|`                    `    |`         `   |`[likelidhood]()`|
-
-
-
-| Skills                         |    
-| :-----------------------       | 
-| `Trabajo en equipo `+          |                                  
-| `Creatividad       `+          |  
-| `Desarrollo Web   `            |
-| `Enghish Level A1`             |
-| `Espan:ol nativo`+             |
-| `designer`                     |
-|`Googling`                      |
- 
-
-
- 
  ## Logros
   - `tecnico electro mecanico`+
   - `Desarrollador Frond End`+
   - `Desarrollador Back End`+
  
    
- ## Cursando 
+ ## currently studying 
  - `Ingenieria en inf.`
- - `Henry`
- 
- 
- 
- 
- 
+  
 # Music
- - [kidd keo]()
+ - [kigo]()
  - [duki]()
  - [Fe de Errata]()
  
