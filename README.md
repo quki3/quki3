@@ -32,26 +32,6 @@
     <img  alt="Discord" height="25" src="https://img.shields.io/badge/Discord-5484DF?style=for-the-badge&logo=Discord&logoColor=white" />
   </a> 
 </p>
-
- ## Logros
-  - `tecnico electro mecanico`+
-  - `Desarrollador Frond End`+
-  - `Desarrollador Back End`+
+# Free Documents
+ - [CV English](http://192.168.43.186/public/pdf/cvEnglish2023.pdf)
  
-   
- ## currently studying 
- - `Ingenieria en inf.`
-  
-# Music
- - [kigo]()
- - [duki]()
- - [Fe de Errata]()
- 
-
-
-
-
-
-
-
-
