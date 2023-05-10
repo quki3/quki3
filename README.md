@@ -1,18 +1,17 @@
-# Hello I am Gabriel, how can I help you?
+<p> <b>He</b>llo <b>m</b>y <b>na</b>me <b>i</b>s <b>Ga</b>briel <b>Ne</b>stor <b>Br</b>ufau, I'm from Argentina and I work as a software developer,  Please feel free to ask me anything, and I will do my best to provide you with a helpful and informative response.
+ </p>
 <p align="center"> 
  <img src="https://img.shields.io/github/followers/GabrielBrufau?color=FD5D5D&label=Followers"/>  
  <img src="https://img.shields.io/github/stars/GabrielBrufau?style=flat&color=FD5D5D" />  
-</p>
-
-
-
-
-<p align="left">
-  <code><a href="https://www.linkedin.com/in/gabriel-nestor-brufau-a504871b9/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
+ </p>
    
 
 ## 📫 Connect with me!
 <p > 
+ <a href="https://www.linkedin.com/in/brufau-gabriel-nestor-full-stack-developer-a504871b9/">
+ <img alt="linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white")/>
+ </a>
+ 
   <a href="http://192.168.43.186/">
     <img  alt="Porfolio" height="25" src="https://img.shields.io/badge/Porfolio-250001?style=for-the-badge&logo=react&logoColor=white" />
   </a> 
@@ -32,6 +31,6 @@
     <img  alt="Discord" height="25" src="https://img.shields.io/badge/Discord-5484DF?style=for-the-badge&logo=Discord&logoColor=white" />
   </a> 
 </p>
-# Free Documents
- - [CV English](http://192.168.43.186/public/pdf/cvEnglish2023.pdf)
+<div><h2>📑 Free Documents</h2></div>
+ <div><a href="http://192.168.43.186/public/pdf/cvEnglish2023.pdf">CV English</a></div>
  
