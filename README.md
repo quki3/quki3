@@ -1,4 +1,4 @@
-<p> <b>He</b>llo <b>m</b>y <b>na</b>me <b>i</b>s <b>Ga</b>briel <b>Ne</b>stor <b>Br</b>ufau, <b>I</b>'m from Argentina and I work as a software developer,  Please feel free to ask me anything, and I will do my best to provide you with a helpful and informative response.
+<p> <b>He</b>llo <b>m</b>y <b>na</b>me <b>i</b>s <b>Ga</b>briel <b>Ne</b>stor <b>Br</b>ufau, <b>I</b>'m <b>fr</b>om Argentina and I work as a software developer,  Please feel free to ask me anything, and I will do my best to provide you with a helpful and informative response.
  </p>
 <p align="center"> 
  <img src="https://img.shields.io/github/followers/qukiiignb?color=FD5D5D&label=Followers"/>  
