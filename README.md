@@ -20,7 +20,7 @@
     <img  alt="Twitter" height="25" src="https://img.shields.io/badge/Twitter-2190f4?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
  
-  <a href="https://www.instagram.com/qukilgbt/">
+  <a href="https://www.instagram.com/gnbharu/">
     <img  alt="Instagram" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
  
