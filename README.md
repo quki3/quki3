@@ -32,5 +32,5 @@
   </a> 
 </p>
 <div><h2>📑 Free Documents</h2></div>
- <div><a href="http://192.168.43.186/public/pdf/cvEnglish2023.pdf">CV English</a></div>
+ <div><a href="">English</a></div>
  
