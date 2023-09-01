@@ -1,5 +1,5 @@
 # привет
-Please feel free to ask me anything, and I will do my best to provide you with a helpful and informative response.
+Please feel free to ask me anything, I will do my best.
  </p>
 <p align="center"> 
  <img src="https://img.shields.io/github/followers/qukiiignb?color=FD5D5D&label=Followers"/>  
